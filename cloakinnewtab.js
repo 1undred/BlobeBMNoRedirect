@@ -28,4 +28,4 @@
 })();
 
 // Redirect to google
-window.location.href = "https://google.com";
+//window.location.href = "https://google.com"; NO
